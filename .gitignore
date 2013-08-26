@@ -1,0 +1,18 @@
+# Executable and compiled files
+node_modules
+release
+
+# Ignore all log files and tempfiles
+/log/*.log
+/tmp
+
+# Ignore .swp and .swo files
+*.swp
+*.swo
+
+.DS_Store
+.sass-cache
+
+##
+
+
