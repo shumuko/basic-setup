@@ -1,3 +1,4 @@
+<?php header('Content-Type: text/html; charset=utf-8'); ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -8,10 +9,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title></title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" >
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/html5-main.css">
     <link rel="stylesheet" href="css/style.css">
