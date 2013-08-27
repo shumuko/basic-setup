@@ -1,0 +1,18 @@
+{
+  "curly":    true,
+  "eqeqeq":   true,
+  "immed":    true,
+  "indent":   2,
+  "latedef":  true,
+  "newcap":   true,
+  "noarg":    true,
+  "sub":      true,
+  "undef":    true,
+  "jquery":   true,
+  "browser":  true,
+  "node":     true,
+  "trailing": true,
+  "globals": {
+    "Modernizr": true
+  }
+}
