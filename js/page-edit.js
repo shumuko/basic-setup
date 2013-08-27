@@ -1,1 +1,0 @@
-javascript:function%20toggle()%7Bvar%20d%3Ddocument,b%3Dd.body,ce%3D%27contenteditable%27%3Bif(b.hasAttribute(ce))%7Bb.removeAttribute(ce)%3Bb.style.opacity%3D1%3Bd.title%3Dd.title.replace%28%27%5BEditing...%5D%20%27%2C%20%27%27%29%3B%7Delse%7Bb.setAttribute(ce,true)%3Bb.style.opacity%3D.6%3Bd.title%3D%27%5BEditing...%5D%20%27%2Bd.title%3B%7D%7Dtoggle()%3Bvoid(0)
